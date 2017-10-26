@@ -26,10 +26,10 @@ canvas#canvas {
     margin: 20px;
 }
 
-p a, .facts a {
+p a, .facts a, .copy a {
     text-decoration: underline;
 }
-p a:hover, .facts a:hover {
+p a:hover, .facts a:hover, .copy a:hover {
   color:cornflowerblue;
 }
 
@@ -110,8 +110,6 @@ a{
 
 
 .cart {
-    display: inline-block;
-    position: relative;
 }
 
 .cartthing  {
