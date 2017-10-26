@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hisna</title>
+    <atom:link href="hisna.se/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>hisna.se</link>
+    <description></description>
+    <pubDate>Thu, 05 Oct 2017 10:45:00 +0200</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>MAZE DOG</title>
+      <link>hisna.se/articles/maze-dog/</link>
+      <pubDate>Thu, 05 Oct 2017 10:45:00 +0200</pubDate>
+      <guid isPermaLink="true">hisna.se/articles/maze-dog/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;a href=&quot;http://lexaloffle.com&quot;&gt;FIND THE CHICKS!&lt;/a&gt; DIG FOR SNACKS! ANNOY THE DUCKS! NAVIGATE THE MAZE!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;*MAZE DOG&lt;/em&gt; is a cute little adventure game for 1 player, sporting a seriously rad theme tune and a simple yet fun aesthetic! You go from screen to screen controlling a cute little puppy. You need to find 8 chickens that has run away from their home and theres’ 8 “snacks” hidden throughout the game for completionists. Going from screen to screen can be a little dull sometimes, but finding a chick does feel rewarding. Plus there are a bunch of little details that I enjoy, like pushing bulldogs into puddles or going to the beach to bark at ducks (don’t do it!).&lt;/p&gt;
+&lt;p&gt;Try &lt;em&gt;MAZE DOG&lt;/em&gt; with a steamy cup of java this afternoon.&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
