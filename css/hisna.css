@@ -88,6 +88,7 @@ a{
 .review {
     width:100%;
     max-width: 100vh;
+    min-height: 324px;
     padding-top: 36px;
     padding-bottom: 66px;
     margin:auto;
@@ -123,6 +124,9 @@ a{
     box-shadow: 16px 16px 0px #000000;
 }
 
+.cart h1 {
+    
+}
 
 .cart span {
     width: 256px;
@@ -173,8 +177,7 @@ audio {
 .about {
     background: black;
     border-radius: 10px;
-    padding: 10px;
-    width: 80%;
+    width: 100%;
     color: #FFF1E8;
     margin: auto;
     font-size: 14px;
@@ -231,12 +234,11 @@ h1 {
 
 
 .info {
-    max-width: 80%;
+    max-width: 100%;
     margin-left: auto; 
     margin-right: auto;
     margin-bottom: 20px;
     border-radius: 10px;
-    padding: 10px;
     margin-top: 2.1em;
     text-align: left;
 }
@@ -289,7 +291,7 @@ border-radius: 10px;
   body { font-size: 16px; }
 }
 
-@media (max-width: 100vh) {
+@media (max-width: 414px) {
     .facts { 
         float: none;
         margin: auto;
@@ -300,14 +302,20 @@ border-radius: 10px;
         border-radius: 0px;
         
     }
+    .cart h1 {
+        font-size: 28px;
+    }
+
 }
 
 /*share buttons*/
 ul.share-buttons{
   list-style: none;
   padding: 0;
-    float:right;
-    margin-right: 46px;
+    margin-left: 8%;
+    margin-top: 16px;
+    margin-bottom: -26px;
+    
 }
 
 ul.share-buttons li{
