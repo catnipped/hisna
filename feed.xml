@@ -9,7 +9,7 @@
     <lastBuildDate>Fri, 27 Oct 2017 17:45:00 +0200</lastBuildDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>se</language>
-    <copyright>Dev Karnal Fridén</copyright>
+    <copyright>CC 2017</copyright>
     <itunes:author>Hisna</itunes:author>
     <itunes:summary>en podd om spelkultur</itunes:summary>
     <itunes:owner>
@@ -17,7 +17,10 @@
       <itunes:email>devkfriden@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>No</itunes:explicit>
-    <itunes:categorytext>Spel</itunes:categorytext>
+    <itunes:category text="Spel">
+      <itunes:category text="Kultur"></itunes:category>
+    </itunes:category>
+    <itunes:keywords>Spel, Kultur</itunes:keywords>
     <itunes:imagehref>hisna.se/images/hisna_logo.png</itunes:imagehref>
     <item>
       <title>HISNA #1 Polis och politik</title>
@@ -36,6 +39,7 @@
 &lt;p&gt;I detta första nya avsnitt så snackar Dev Karnal Fridén och Ossian Borén om Wolfenstein II: The New Colossus, nazism, Beat Cop och Yakuza 0.&lt;/p&gt;
 </itunes:summary>
       <itunes:imagehref>hisna.se/articles/poliser%20och%20politik//cover.png</itunes:imagehref>
+      <itunes:subtitle>I detta första nya avsnitt så snackar Dev Karnal Fridén och Ossian Borén om Wolfenstein II: The New Colossus, nazism, Beat Cop och Yakuza 0.</itunes:subtitle>
       <enclosure url="hisna.se/articles/poliser%20och%20politik//pod.mp3" type="audio/mpeg"></enclosure>
     </item>
   </channel>
