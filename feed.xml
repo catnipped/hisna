@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hisna</title>
-    <atom:link href="http://hisna.se/feed.xml" rel="self" type="application/rss+xml"></atom:link>
-    <link>http://hisna.se</link>
+    <atom:link href="http://www.hisna.se/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://www.hisna.se</link>
     <description>en podd om spelkultur</description>
     <pubDate>Fri, 27 Oct 2017 17:45:00 +0200</pubDate>
     <lastBuildDate>Fri, 27 Oct 2017 17:45:00 +0200</lastBuildDate>
@@ -22,12 +22,12 @@
       <itunes:category text="Other Games"></itunes:category>
     </itunes:category>
     <itunes:keywords>Spel, Kultur</itunes:keywords>
-    <itunes:imagehref>http://hisna.se/images/hisna_logo.jpg</itunes:imagehref>
+    <itunes:imagehref>http://www.hisna.se/images/hisna_logo.jpg</itunes:imagehref>
     <item>
       <title>HISNA #1 Polis och politik</title>
-      <link>http://hisna.se/articles/poliser%20och%20politik/pod.mp3</link>
+      <link>http://www.hisna.se/articles/poliser%20och%20politik/pod.mp3</link>
       <pubDate>Fri, 27 Oct 2017 17:45:00 +0200</pubDate>
-      <guid isPermaLink="true">http://hisna.se/articles/poliser%20och%20politik/</guid>
+      <guid isPermaLink="true">http://www.hisna.se/articles/poliser%20och%20politik/</guid>
       <author></author>
       <description>&lt;p&gt;Åh! vi är så glada att äntligen släppa nya fina Hisna! En ny fräsch podd om spel och kultur och spelkultur!
 &lt;br&gt;
@@ -39,10 +39,10 @@
 &lt;br&gt;&lt;/p&gt;
 &lt;p&gt;I detta första nya avsnitt så snackar Dev Karnal Fridén och Ossian Borén om Wolfenstein II: The New Colossus, nazism, Beat Cop och Yakuza 0.&lt;/p&gt;
 </itunes:summary>
-      <itunes:imagehref>http://hisna.se/articles/poliser%20och%20politik/cover.jpg</itunes:imagehref>
+      <itunes:imagehref>http://www.hisna.se/articles/poliser%20och%20politik/cover.jpg</itunes:imagehref>
       <itunes:subtitle>I detta första nya avsnitt så snackar Dev Karnal Fridén och Ossian Borén om Wolfenstein II: The New Colossus, nazism, Beat Cop och Yakuza 0.</itunes:subtitle>
       <itunes:duration>3947</itunes:duration>
-      <enclosure url="http://hisna.se/articles/poliser%20och%20politik/pod.mp3" type="audio/mpeg"></enclosure>
+      <enclosure url="http://www.hisna.se/articles/poliser%20och%20politik/pod.mp3" type="audio/mpeg"></enclosure>
     </item>
   </channel>
 </rss>
