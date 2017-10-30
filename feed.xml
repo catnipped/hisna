@@ -22,7 +22,7 @@
       <itunes:category text="Other Games"></itunes:category>
     </itunes:category>
     <itunes:keywords>Spel, Kultur</itunes:keywords>
-    <itunes:imagehref>http://hisna.se/images/hisna_logo.png</itunes:imagehref>
+    <itunes:imagehref>http://hisna.se/images/hisna_logo.jpg</itunes:imagehref>
     <item>
       <title>HISNA #1 Polis och politik</title>
       <link>http://hisna.se/articles/poliser%20och%20politik/pod.mp3</link>
@@ -39,7 +39,7 @@
 &lt;br&gt;&lt;/p&gt;
 &lt;p&gt;I detta första nya avsnitt så snackar Dev Karnal Fridén och Ossian Borén om Wolfenstein II: The New Colossus, nazism, Beat Cop och Yakuza 0.&lt;/p&gt;
 </itunes:summary>
-      <itunes:imagehref>http://hisna.se/articles/poliser%20och%20politik/cover.png</itunes:imagehref>
+      <itunes:imagehref>http://hisna.se/articles/poliser%20och%20politik/cover.jpg</itunes:imagehref>
       <itunes:subtitle>I detta första nya avsnitt så snackar Dev Karnal Fridén och Ossian Borén om Wolfenstein II: The New Colossus, nazism, Beat Cop och Yakuza 0.</itunes:subtitle>
       <itunes:duration>3947</itunes:duration>
       <enclosure url="http://hisna.se/articles/poliser%20och%20politik/pod.mp3" type="audio/mpeg"></enclosure>
