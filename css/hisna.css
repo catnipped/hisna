@@ -112,6 +112,14 @@ a{
 .cart {
 }
 
+.text p{
+    max-width: 280px;
+    width: 100%;
+    margin: auto;
+    margin-top: -10px;
+    text-align: left;
+}
+
 .cartthing  {
     width: 256px;
     height: 256px;

@@ -5,7 +5,7 @@
     <atom:link href="http://www.hisna.se/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://www.hisna.se</link>
     <description>en podd om spelkultur</description>
-    <pubDate>Fri, 27 Oct 2017 17:45:00 +0200</pubDate>
+    <pubDate>Tue, 31 Oct 2017 17:45:00 +0100</pubDate>
     <lastBuildDate>Fri, 27 Oct 2017 17:45:00 +0200</lastBuildDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>sv</language>
@@ -22,27 +22,6 @@
       <itunes:category text="Other Games"></itunes:category>
     </itunes:category>
     <itunes:keywords>Spel, Kultur</itunes:keywords>
-    <itunes:image href="http://www.hisna.se/images/hisna_logo.jpg"/>
-    <item>
-      <title>HISNA #1 Polis och politik</title>
-      <link>http://www.hisna.se/articles/poliser%20och%20politik/pod.mp3</link>
-      <pubDate>Fri, 27 Oct 2017 17:45:00 +0200</pubDate>
-      <guid isPermaLink="true">http://www.hisna.se/articles/poliser%20och%20politik/</guid>
-      <author></author>
-      <description>&lt;p&gt;Åh! vi är så glada att äntligen släppa nya fina Hisna! En ny fräsch podd om spel och kultur och spelkultur!
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;I detta första nya avsnitt så snackar Dev Karnal Fridén och Ossian Borén om Wolfenstein II: The New Colossus, nazism, Beat Cop och Yakuza 0.&lt;/p&gt;
-</description>
-      <itunes:summary>&lt;p&gt;Åh! vi är så glada att äntligen släppa nya fina Hisna! En ny fräsch podd om spel och kultur och spelkultur!
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;I detta första nya avsnitt så snackar Dev Karnal Fridén och Ossian Borén om Wolfenstein II: The New Colossus, nazism, Beat Cop och Yakuza 0.&lt;/p&gt;
-</itunes:summary>
-      <itunes:image href="http://www.hisna.se/articles/poliser%20och%20politik/cover.jpg"/>
-      <itunes:subtitle>I detta första nya avsnitt så snackar Dev Karnal Fridén och Ossian Borén om Wolfenstein II: The New Colossus, nazism, Beat Cop och Yakuza 0.</itunes:subtitle>
-      <itunes:duration>3947</itunes:duration>
-      <enclosure url="http://www.hisna.se/articles/poliser%20och%20politik/pod.mp3" type="audio/mpeg"></enclosure>
-    </item>
+    <itunes:image href="http://www.hisna.se/images/hisna_logo.png"/>
   </channel>
 </rss>
