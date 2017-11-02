@@ -18,8 +18,8 @@
     </itunes:owner>
     <itunes:explicit>No</itunes:explicit>
     <itunes:category text="Games &amp; Hobbies">
-      <itunes:category text="Video Games"></itunes:category>
-      <itunes:category text="Other Games"></itunes:category>
+      <itunes:category text="Video Games"/>
+      <itunes:category text="Other Games"/>
     </itunes:category>
     <itunes:keywords>Spel, Kultur</itunes:keywords>
     <itunes:image href="http://www.hisna.se/images/hisna_logo.png"/>
