@@ -5,7 +5,7 @@
     <atom:link href="http://www.hisna.se/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://www.hisna.se</link>
     <description>en podd om spelkultur</description>
-    <pubDate>Mon, 04 Dec 2017 17:45:00 +0100</pubDate>
+    <pubDate>Sun, 04 Nov 2018 20:00:00 +0100</pubDate>
     <lastBuildDate>Fri, 27 Oct 2017 17:45:00 +0200</lastBuildDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>sv</language>
@@ -23,6 +23,34 @@
     </itunes:category>
     <itunes:keywords>Spel, Kultur</itunes:keywords>
     <itunes:image href="http://www.hisna.se/images/hisna_logo.png"/>
+    <item>
+      <itunes:author></itunes:author>
+      <itunes:keywords>crunch, red dead redemption, soul calibur, hollow knight, tv-spel</itunes:keywords>
+      <title>HISNA #3 Crunch</title>
+      <category>games</category>
+      <link>http://www.hisna.se/articles/crunch/pod.mp3</link>
+      <pubDate>Sun, 04 Nov 2018 20:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://www.hisna.se/articles/crunch/</guid>
+      <author></author>
+      <description>&lt;p&gt;Höstens är här och med det en ny säsong Hisna! 
+Höstens kanske största spelsläpp Red Dead Redemption 2 har rört upp diskussion om arbetsförhållanden på spelstudios världen över. Spelet i sig är visionärt, slipat och har en otrolig känsla för detaljer. Så vad är det egentligen priset för den kvaliteten? Övertidsarbete är inte något unikt för spelbranschen. Men det syns kanske extra tydligt när de allra största spelen ska släppas på rätt datum och vara så polerade som möjligt. Hur mår de som arbetar för att spelen ska bli så starka? Kan det se annorlunda ut?&lt;/p&gt;
+&lt;p&gt;Med studion Rockstars arbetsvillkor som bakgrund har vi i det här avsnittet har inkluderat ett reportage med intervjuer från svenska utvecklare på bland annat Paradox och Coffee Stain Studios om hur de ser på företeelsen Crunch i svenska spelbranschen, där övertidsarbete kan innebära att du jobbar alla dagar i veckan. Ibland kan det ske flera månader i streck. Vi hör talas om spelstudios som Paradox som försöker minimera crunch-arbete så att anställda ska kunna ha ett liv vid sidan av, och får kommentarer från Dataspelsbranschens talesperson Pär Strömbäck. 
+(Reportaget spelades in 2013 med Fredrik Jansson och sänds nu först för första gången. Vi planerar en uppföljning i kommande avsnitt)&lt;/p&gt;
+&lt;p&gt;I veckans avsnitt rekommenderar vi även fightingserien Soul Calibur som är tillbaka med del sex i serien (egentligen det sjunde). Svärd och sköldar, ninjor och pirater - Spelet låter dig skapa dina egna karaktärer och göra alla möjliga och omöjliga skapelser, vilket har varit kul att följa på twitter och riktigt skoj att prova själv. Spännande och lättillgängligt för såväl den inbitne spelaren som för en nybörjare i genren. innehåller också gott om saker att göra i ett singleplayer-läge (plus) men fortfarande en sorts design med väl tilltagen sexualisering av kvinnliga fighters (något minus). Vi rekommenderar ändå för hur lätt det är att plocka upp kontrollen och känna att året är 2005. Ibland är det en önskvärd tillvaro. &lt;/p&gt;
+&lt;p&gt;God lyssning!&lt;/p&gt;
+</description>
+      <itunes:summary>&lt;p&gt;Höstens är här och med det en ny säsong Hisna! 
+Höstens kanske största spelsläpp Red Dead Redemption 2 har rört upp diskussion om arbetsförhållanden på spelstudios världen över. Spelet i sig är visionärt, slipat och har en otrolig känsla för detaljer. Så vad är det egentligen priset för den kvaliteten? Övertidsarbete är inte något unikt för spelbranschen. Men det syns kanske extra tydligt när de allra största spelen ska släppas på rätt datum och vara så polerade som möjligt. Hur mår de som arbetar för att spelen ska bli så starka? Kan det se annorlunda ut?&lt;/p&gt;
+&lt;p&gt;Med studion Rockstars arbetsvillkor som bakgrund har vi i det här avsnittet har inkluderat ett reportage med intervjuer från svenska utvecklare på bland annat Paradox och Coffee Stain Studios om hur de ser på företeelsen Crunch i svenska spelbranschen, där övertidsarbete kan innebära att du jobbar alla dagar i veckan. Ibland kan det ske flera månader i streck. Vi hör talas om spelstudios som Paradox som försöker minimera crunch-arbete så att anställda ska kunna ha ett liv vid sidan av, och får kommentarer från Dataspelsbranschens talesperson Pär Strömbäck. 
+(Reportaget spelades in 2013 med Fredrik Jansson och sänds nu först för första gången. Vi planerar en uppföljning i kommande avsnitt)&lt;/p&gt;
+&lt;p&gt;I veckans avsnitt rekommenderar vi även fightingserien Soul Calibur som är tillbaka med del sex i serien (egentligen det sjunde). Svärd och sköldar, ninjor och pirater - Spelet låter dig skapa dina egna karaktärer och göra alla möjliga och omöjliga skapelser, vilket har varit kul att följa på twitter och riktigt skoj att prova själv. Spännande och lättillgängligt för såväl den inbitne spelaren som för en nybörjare i genren. innehåller också gott om saker att göra i ett singleplayer-läge (plus) men fortfarande en sorts design med väl tilltagen sexualisering av kvinnliga fighters (något minus). Vi rekommenderar ändå för hur lätt det är att plocka upp kontrollen och känna att året är 2005. Ibland är det en önskvärd tillvaro. &lt;/p&gt;
+&lt;p&gt;God lyssning!&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://www.hisna.se/articles/crunch/cover.png"/>
+      <itunes:subtitle>Ny säsong!</itunes:subtitle>
+      <itunes:duration>4709</itunes:duration>
+      <enclosure url="http://www.hisna.se/articles/crunch/pod.mp3" type="audio/mpeg"></enclosure>
+    </item>
     <item>
       <itunes:author></itunes:author>
       <itunes:keywords>silent hill, skräck, boktips, annihilation, jefff vandermeer, arkham horror, marvel, count lucanor, cosmic horror, cthulu</itunes:keywords>
@@ -51,26 +79,18 @@
       <guid isPermaLink="true">http://www.hisna.se/articles/poliser%20och%20politik/</guid>
       <author></author>
       <description>&lt;p&gt;I detta det första avsnittet av Hisna hittas:
-&lt;br&gt;
-En genomgång av vad nazismen har gemensamt med USA och spelvärlden hösten 2017.
-Vi nystar i högerextrema trådar kring amerikanska troll-rörelsen Gamergate. Spanar likheter mellan nya Wolfenstein-spelet “The New Colossus” och Bokmässan i Göteborg. Hashtaggen #nomorenazis får sägas vara ett ledord (i avsnittet säger vi felaktigt #killnazis, men träffar alltså nästan rätt)
-&lt;br&gt;
-Speltema: Poliser - Kritik av 
-Yakuza 0 - “Simulering” av 80-talets maffia-Japan, stora hjärtan, stora pengar 
-Beat Cop - Du som alltid drömt om att vara P-lisa i Miami Vice-miljö får vad du vill ha (vem är du alltså?)
-&lt;br&gt;
-Följ med!&lt;/p&gt;
+En genomgång av vad nazismen har gemensamt med USA och spelvärlden hösten 2017.&lt;/p&gt;
+&lt;p&gt;Vi nystar i högerextrema trådar kring amerikanska troll-rörelsen Gamergate. Spanar likheter mellan nya Wolfenstein-spelet “The New Colossus” och Bokmässan i Göteborg. Hashtaggen #nomorenazis får sägas vara ett ledord (i avsnittet säger vi felaktigt #killnazis, men träffar alltså nästan rätt)&lt;/p&gt;
+&lt;p&gt;Speltema: Poliser - Kritik av Yakuza 0 - “Simulering” av 80-talets maffia-Japan, stora hjärtan, stora pengar 
+Beat Cop - Du som alltid drömt om att vara P-lisa i Miami Vice-miljö får vad du vill ha (vem är du alltså?)&lt;/p&gt;
+&lt;p&gt;Följ med!&lt;/p&gt;
 </description>
       <itunes:summary>&lt;p&gt;I detta det första avsnittet av Hisna hittas:
-&lt;br&gt;
-En genomgång av vad nazismen har gemensamt med USA och spelvärlden hösten 2017.
-Vi nystar i högerextrema trådar kring amerikanska troll-rörelsen Gamergate. Spanar likheter mellan nya Wolfenstein-spelet “The New Colossus” och Bokmässan i Göteborg. Hashtaggen #nomorenazis får sägas vara ett ledord (i avsnittet säger vi felaktigt #killnazis, men träffar alltså nästan rätt)
-&lt;br&gt;
-Speltema: Poliser - Kritik av 
-Yakuza 0 - “Simulering” av 80-talets maffia-Japan, stora hjärtan, stora pengar 
-Beat Cop - Du som alltid drömt om att vara P-lisa i Miami Vice-miljö får vad du vill ha (vem är du alltså?)
-&lt;br&gt;
-Följ med!&lt;/p&gt;
+En genomgång av vad nazismen har gemensamt med USA och spelvärlden hösten 2017.&lt;/p&gt;
+&lt;p&gt;Vi nystar i högerextrema trådar kring amerikanska troll-rörelsen Gamergate. Spanar likheter mellan nya Wolfenstein-spelet “The New Colossus” och Bokmässan i Göteborg. Hashtaggen #nomorenazis får sägas vara ett ledord (i avsnittet säger vi felaktigt #killnazis, men träffar alltså nästan rätt)&lt;/p&gt;
+&lt;p&gt;Speltema: Poliser - Kritik av Yakuza 0 - “Simulering” av 80-talets maffia-Japan, stora hjärtan, stora pengar 
+Beat Cop - Du som alltid drömt om att vara P-lisa i Miami Vice-miljö får vad du vill ha (vem är du alltså?)&lt;/p&gt;
+&lt;p&gt;Följ med!&lt;/p&gt;
 </itunes:summary>
       <itunes:image href="http://www.hisna.se/articles/poliser%20och%20politik/cover.png"/>
       <itunes:subtitle>I detta första nya avsnitt så snackar Dev Karnal Fridén och Ossian Borén om Wolfenstein II: The New Colossus, nazism, Beat Cop och Yakuza 0.</itunes:subtitle>
